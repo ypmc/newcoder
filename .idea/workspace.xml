@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69c14c6c-5826-43d7-a1ef-2caeced4f611" name="Default" comment="" />
+    <list default="true" id="69c14c6c-5826-43d7-a1ef-2caeced4f611" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/ArrayReorder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/FibonacciSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/FindKthToTail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/FrogJump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/HasSubTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/NumberOf1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/Power.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/ReverseLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/RotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/newcoder/StackList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/newcoder/BlankReplace.class" afterPath="$PROJECT_DIR$/target/classes/newcoder/BlankReplace.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/newcoder/ListNode.class" afterPath="$PROJECT_DIR$/target/classes/newcoder/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/newcoder/ListPrint.class" afterPath="$PROJECT_DIR$/target/classes/newcoder/ListPrint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/newcoder/BlankReplace.java" afterPath="$PROJECT_DIR$/src/main/java/newcoder/BlankReplace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/newcoder/ListPrint.java" afterPath="$PROJECT_DIR$/src/main/java/newcoder/ListPrint.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,58 +32,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="FrogJump.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/FrogJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="237">
+              <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoDimensionArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/TwoDimensionArray.java">
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="120">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlankReplace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/BlankReplace.java">
+      <file leaf-file-name="NumberOf1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/NumberOf1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1680">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="309">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="14" selection-end-column="19" />
               <folding>
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListPrint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ListPrint.java">
+      <file leaf-file-name="Power.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/Power.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="30" column="20" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="45">
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayReorder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ArrayReorder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="9" column="89" lean-forward="false" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindKthToTail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/FindKthToTail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ReverseLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListMerge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasSubTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/HasSubTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="308" column="26" lean-forward="false" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
+              <folding>
+                <element signature="e#10902#10903#0" expanded="true" />
+                <element signature="e#10948#10949#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,9 +165,22 @@
         <option value="$PROJECT_DIR$/src/main/java/string/BlankReplace.java" />
         <option value="$PROJECT_DIR$/src/main/java/str/BlankReplace.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/ListPrint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/newcoder/ListPrint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/newcoder/BlankReplace.java" />
         <option value="$PROJECT_DIR$/src/main/java/newcoder/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/StackList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/BlankReplace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/ListPrint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/RotateArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/FibonacciSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/FrogJump.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/NumberOf1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/Power.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/ArrayReorder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/FindKthToTail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/newcoder/HasSubTree.java" />
       </list>
     </option>
   </component>
@@ -107,12 +191,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="47" />
+    <option name="x" value="-49" />
+    <option name="y" value="326" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -136,32 +222,6 @@
           <expand>
             <path>
               <item name="newcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="newcoder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -189,15 +249,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTree">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ListMerge">
+    <configuration name="ArrayReorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="newcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="newcoder.BinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="newcoder.ArrayReorder" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -209,14 +269,14 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="BlankReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="newcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="newcoder.BlankReplace" />
+      <option name="MAIN_CLASS_NAME" value="newcoder.FibonacciSequence" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -228,14 +288,52 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="TwoDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ListMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="newcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="newcoder.TwoDimensionArray" />
+      <option name="MAIN_CLASS_NAME" value="newcoder.ListMerge" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
+    <configuration name="NumberOf1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="newcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="newcoder.NumberOf1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="newcoder" />
+      <envs />
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="newcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="newcoder.ReverseLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -327,16 +425,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.TwoDimensionArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BlankReplace" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BinaryTree" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.FibonacciSequence" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NumberOf1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ArrayReorder" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ListMerge" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BlankReplace" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TwoDimensionArray" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ListMerge" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ArrayReorder" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NumberOf1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FibonacciSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -352,12 +454,12 @@
       <updated>1520562683778</updated>
       <workItem from="1520562686076" duration="1325000" />
       <workItem from="1520564032327" duration="101000" />
-      <workItem from="1520564181549" duration="1843000" />
+      <workItem from="1520564181549" duration="12362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3269000" />
+    <option name="totallyTimeSpent" value="13788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -372,7 +474,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15485996" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -383,7 +485,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31630972" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -399,7 +501,22 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java</url>
+          <line>32</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -460,42 +577,163 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/arrary.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/TwoDimensionArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/StackList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ListPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="192">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#194#203#0" expanded="true" />
+            <element signature="e#244#253#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/BlankReplace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="143">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ListPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/TwoDimensionArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1680">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="360">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
             <element signature="e#300#301#0" expanded="true" />
             <element signature="e#330#331#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/FibonacciSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/FrogJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="308" column="26" lean-forward="false" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
+          <folding>
+            <element signature="e#10902#10903#0" expanded="true" />
+            <element signature="e#10948#10949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/NumberOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ArrayReorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="89" lean-forward="false" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/FindKthToTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/HasSubTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

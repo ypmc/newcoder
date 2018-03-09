@@ -6,6 +6,10 @@ import java.util.Stack;
 /**
  * @author kangkang lou
  */
+
+/**
+ * 从尾打印链表
+ */
 class ListNode {
     int val;
     ListNode next = null;

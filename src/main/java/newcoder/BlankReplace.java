@@ -3,6 +3,10 @@ package newcoder;
 /**
  * @author kangkang lou
  */
+
+/**
+ * 替换字符串中的空格为%20
+ */
 public class BlankReplace {
     public static String replaceSpace(StringBuffer str) {
         String s = str.toString();
