@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69c14c6c-5826-43d7-a1ef-2caeced4f611" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_9.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/newcoder/DeleteDuplication.class" afterPath="$PROJECT_DIR$/target/classes/newcoder/DeleteDuplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -92,12 +77,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main_16.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main_16.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_16.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="47" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="72">
+                <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -130,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/newcoder/FindKthToTail.java" />
         <option value="$PROJECT_DIR$/src/main/java/newcoder/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java" />
         <option value="$PROJECT_DIR$/src/main/java/newcoder/HasSubTree.java" />
@@ -181,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_14.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_15.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_16.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -497,12 +495,12 @@
       <workItem from="1521161484410" duration="3155000" />
       <workItem from="1521165198892" duration="18607000" />
       <workItem from="1521418972382" duration="98000" />
-      <workItem from="1521420891865" duration="8250000" />
+      <workItem from="1521420891865" duration="8348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70009000" />
+    <option name="totallyTimeSpent" value="70107000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -614,13 +612,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/FrogJump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/BlankReplace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1011,6 +1002,17 @@
         <state relative-caret-position="264">
           <caret line="47" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
