@@ -21,22 +21,8 @@ public class Main_23 {
                 map.put(key, 1);
             }
         }
-        boolean flag = false;
-        int min = 0;
         Set<Character> set = new HashSet<>();
-        for (Map.Entry<Character, Integer> entry : map.entrySet()) {
-
-            int value = entry.getValue();
-            if (!flag) {
-                min = value;
-                flag = true;
-            }
-            if (value < min) {
-                min = value;
-            }
-
-        }
-
+        int min = Collections.min(map.values());
         for (Map.Entry<Character, Integer> entry : map.entrySet()) {
             if (entry.getValue() == min) {
                 set.add(entry.getKey());
