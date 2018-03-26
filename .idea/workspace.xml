@@ -2,26 +2,130 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69c14c6c-5826-43d7-a1ef-2caeced4f611" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_42.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_43.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_44.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_45.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_46.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_47.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_48.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_49.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_50.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_51.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_52.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_53.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_54.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_55.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_56.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_57.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_58.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_59.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_60.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_61.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_62.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_63.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_64.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_65.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_66.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_67.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_68.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_69.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_70.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_71.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_72.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_73.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_74.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_75.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_76.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_77.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_78.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_79.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_80.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/huawei/Main_81.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/online/Main_1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/online/Main_2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/online/Main_3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/online/Main_4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/online/Main_5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/online/Main_6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/online/Main_7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/online/Main_8.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/AVL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/ArrayReorder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/BinarySearchTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/BinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/BlankReplace.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/Continuous.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/ContinuousSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/DeleteDuplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/DuplicateNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/FibonacciSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/FindKthToTail.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/FindMinMNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/FindPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/FrogJump.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/GetSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/GreatestSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/HasSubTreeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/IsNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/LastRemaining.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/LeftRotateString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/ListMerge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/ListPrint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/MetrixTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/MirrorTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/MoreThanHalfNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/NumAdd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/NumberOf1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/NumberOfK.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/NumberOfOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/NumberOnce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/NumberPrint$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/NumberPrint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/NumbersWithSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/Power.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/Rectangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/RepeatingChar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/ReverseLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/ReverseSentence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/RotateArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/StackList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/StackMin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/StackPush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/StringToNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/TreeDepth.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/TwoDimensionArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/newcoder/UglyNumber.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/AVL.java" afterPath="$PROJECT_DIR$/src/main/java/offer/AVL.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/ArrayReorder.java" afterPath="$PROJECT_DIR$/src/main/java/offer/ArrayReorder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/BinarySearchTree.java" afterPath="$PROJECT_DIR$/src/main/java/offer/BinarySearchTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/BinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/offer/BinaryTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/BlankReplace.java" afterPath="$PROJECT_DIR$/src/main/java/offer/BlankReplace.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/Continuous.java" afterPath="$PROJECT_DIR$/src/main/java/offer/Continuous.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/ContinuousSequence.java" afterPath="$PROJECT_DIR$/src/main/java/offer/ContinuousSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/DeleteDuplication.java" afterPath="$PROJECT_DIR$/src/main/java/offer/DeleteDuplication.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/DuplicateNumber.java" afterPath="$PROJECT_DIR$/src/main/java/offer/DuplicateNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/FibonacciSequence.java" afterPath="$PROJECT_DIR$/src/main/java/offer/FibonacciSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/FindKthToTail.java" afterPath="$PROJECT_DIR$/src/main/java/offer/FindKthToTail.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/FindMinMNum.java" afterPath="$PROJECT_DIR$/src/main/java/offer/FindMinMNum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/FindPath.java" afterPath="$PROJECT_DIR$/src/main/java/offer/FindPath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/FrogJump.java" afterPath="$PROJECT_DIR$/src/main/java/offer/FrogJump.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/GetSum.java" afterPath="$PROJECT_DIR$/src/main/java/offer/GetSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/GreatestSum.java" afterPath="$PROJECT_DIR$/src/main/java/offer/GreatestSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/HasSubTreeTest.java" afterPath="$PROJECT_DIR$/src/main/java/offer/HasSubTreeTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/IsNumber.java" afterPath="$PROJECT_DIR$/src/main/java/offer/IsNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/LastRemaining.java" afterPath="$PROJECT_DIR$/src/main/java/offer/LastRemaining.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/LeftRotateString.java" afterPath="$PROJECT_DIR$/src/main/java/offer/LeftRotateString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java" afterPath="$PROJECT_DIR$/src/main/java/offer/ListMerge.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/ListPrint.java" afterPath="$PROJECT_DIR$/src/main/java/offer/ListPrint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/MetrixTest.java" afterPath="$PROJECT_DIR$/src/main/java/offer/MetrixTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/MirrorTree.java" afterPath="$PROJECT_DIR$/src/main/java/offer/MirrorTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/MoreThanHalfNum.java" afterPath="$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/NumAdd.java" afterPath="$PROJECT_DIR$/src/main/java/offer/NumAdd.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/NumberOf1.java" afterPath="$PROJECT_DIR$/src/main/java/offer/NumberOf1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/NumberOfK.java" afterPath="$PROJECT_DIR$/src/main/java/offer/NumberOfK.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/NumberOfOne.java" afterPath="$PROJECT_DIR$/src/main/java/offer/NumberOfOne.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/NumberOnce.java" afterPath="$PROJECT_DIR$/src/main/java/offer/NumberOnce.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/NumberPrint.java" afterPath="$PROJECT_DIR$/src/main/java/offer/NumberPrint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/NumbersWithSum.java" afterPath="$PROJECT_DIR$/src/main/java/offer/NumbersWithSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/Power.java" afterPath="$PROJECT_DIR$/src/main/java/offer/Power.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/Rectangle.java" afterPath="$PROJECT_DIR$/src/main/java/offer/Rectangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/RepeatingChar.java" afterPath="$PROJECT_DIR$/src/main/java/offer/RepeatingChar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/ReverseLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/offer/ReverseLinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/ReverseSentence.java" afterPath="$PROJECT_DIR$/src/main/java/offer/ReverseSentence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/RotateArray.java" afterPath="$PROJECT_DIR$/src/main/java/offer/RotateArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/StackList.java" afterPath="$PROJECT_DIR$/src/main/java/offer/StackList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/StackMin.java" afterPath="$PROJECT_DIR$/src/main/java/offer/StackMin.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/StackPush.java" afterPath="$PROJECT_DIR$/src/main/java/offer/StackPush.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/StringToNumber.java" afterPath="$PROJECT_DIR$/src/main/java/offer/StringToNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/TreeDepth.java" afterPath="$PROJECT_DIR$/src/main/java/offer/TreeDepth.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/TwoDimensionArray.java" afterPath="$PROJECT_DIR$/src/main/java/offer/TwoDimensionArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/newcoder/UglyNumber.java" afterPath="$PROJECT_DIR$/src/main/java/offer/UglyNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,76 +138,126 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main_54.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_54.java">
+      <file leaf-file-name="Main_80.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_80.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_81.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_81.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="105" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_8.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="9" column="83" lean-forward="false" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_55.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_55.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main_56.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_56.java">
+      <file leaf-file-name="Main_3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_57.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_57.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_58.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_58.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_59.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_59.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_60.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_60.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -124,6 +278,9 @@
       <find>size</find>
       <find>最小</find>
       <find>10</find>
+      <find>man</find>
+      <find>12345789</find>
+      <find>分</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -141,36 +298,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_12.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_13.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_14.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_15.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_16.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_18.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_19.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_20.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_21.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_22.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_23.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_24.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_25.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_26.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_28.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_29.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_30.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_31.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_32.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_33.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_34.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_35.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_36.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_37.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main_38.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_38.java" />
-        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_39.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_40.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_41.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_42.java" />
@@ -192,6 +319,36 @@
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_58.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_59.java" />
         <option value="$PROJECT_DIR$/src/main/java/huawei/Main_60.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_61.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_62.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_63.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_65.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_66.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_67.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_68.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_69.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_70.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_71.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_91.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_72.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_73.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_74.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_75.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_76.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_77.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_78.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_79.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_80.java" />
+        <option value="$PROJECT_DIR$/src/main/java/huawei/Main_81.java" />
+        <option value="$PROJECT_DIR$/src/main/java/online/Main_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/online/Main_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/online/Main_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/online/Main_4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/online/Main_5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/online/Main_6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/online/Main_7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/online/Main_8.java" />
       </list>
     </option>
   </component>
@@ -256,16 +413,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huawei" type="462c0819:PsiDirectoryNode" />
+              <item name="online" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,6 +433,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jhipster" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -294,7 +452,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main_60">
+  <component name="RunManager" selected="Application.Main_7">
     <configuration name="Main_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -314,14 +472,14 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="Main_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="online.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="huawei.Main_54" />
+      <option name="MAIN_CLASS_NAME" value="online.Main_2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -333,14 +491,14 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="Main_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="online.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="huawei.Main_55" />
+      <option name="MAIN_CLASS_NAME" value="online.Main_4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -352,14 +510,14 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="Main_57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="online.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="huawei.Main_57" />
+      <option name="MAIN_CLASS_NAME" value="online.Main_5" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -371,14 +529,14 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="Main_59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="online.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="huawei.Main_59" />
+      <option name="MAIN_CLASS_NAME" value="online.Main_6" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -390,14 +548,14 @@
       <module name="newcoder" />
       <envs />
     </configuration>
-    <configuration name="Main_60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="huawei.*" />
+          <option name="PATTERN" value="online.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="huawei.Main_60" />
+      <option name="MAIN_CLASS_NAME" value="online.Main_7" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -490,19 +648,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main_54" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main_55" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main_57" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main_59" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main_60" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main_2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main_4" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main_5" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main_6" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main_7" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main_60" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main_59" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main_57" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main_55" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main_54" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main_7" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main_6" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main_5" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main_4" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main_2" />
       </list>
     </recent_temporary>
   </component>
@@ -532,12 +690,14 @@
       <workItem from="1521527278454" duration="10684000" />
       <workItem from="1521544718363" duration="1296000" />
       <workItem from="1521591917120" duration="25457000" />
-      <workItem from="1521679241112" duration="22282000" />
+      <workItem from="1521679241112" duration="23066000" />
+      <workItem from="1521765725736" duration="20381000" />
+      <workItem from="1522024346016" duration="18383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150197000" />
+    <option name="totallyTimeSpent" value="189745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -554,26 +714,26 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32667875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18616144" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10543657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35584843" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17462933" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22087745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2193646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35584843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4085667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -591,36 +751,36 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/offer/ListMerge.java</url>
           <line>32</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/newcoder/ListMerge.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/offer/ListMerge.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/newcoder/MirrorTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/offer/MirrorTree.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/newcoder/IsNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/offer/IsNumber.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/newcoder/DeleteDuplication.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/offer/DeleteDuplication.java</url>
           <line>57</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/newcoder/DeleteDuplication.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/offer/DeleteDuplication.java</url>
           <line>38</line>
           <properties />
           <option name="timeStamp" value="6" />
@@ -727,294 +887,48 @@
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/huawei/Main_71.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/huawei/Main_71.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/huawei/Main_79.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/online/Main_2.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/online/Main_4.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/online/Main_5.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="41" />
+      <option name="time" value="49" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4656">
-          <caret line="218" column="23" lean-forward="false" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="37" column="66" lean-forward="false" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="49" column="5" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#315#316#0" expanded="false" />
-            <element signature="e#356#357#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3360">
-          <caret line="163" column="12" lean-forward="false" selection-start-line="163" selection-start-column="8" selection-end-line="163" selection-end-column="12" />
-          <folding>
-            <element signature="e#16099#16100#0" expanded="false" />
-            <element signature="e#16149#16150#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="117" column="32" lean-forward="false" selection-start-line="117" selection-start-column="32" selection-end-line="117" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1675">
-          <caret line="15" column="174" lean-forward="false" selection-start-line="15" selection-start-column="174" selection-end-line="15" selection-end-column="174" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-877">
-          <caret line="613" column="22" lean-forward="false" selection-start-line="613" selection-start-column="22" selection-end-line="613" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="66" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_36.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_37.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_38.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_40.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_45.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/newcoder/FindMinMNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_44.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_43.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_41.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -1036,7 +950,7 @@
         <state relative-caret-position="420">
           <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1105,30 +1019,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_56.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_55.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="504">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_55.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_56.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="768">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_57.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="504">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1143,17 +1057,329 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_59.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="936">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_60.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="510">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_61.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_68.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_67.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="66" column="29" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_69.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1464">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_70.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_71.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_72.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_73.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_74.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_75.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_77.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_78.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="41" column="32" lean-forward="false" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="1384" column="33" lean-forward="false" selection-start-line="1384" selection-start-column="33" selection-end-line="1384" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="87" column="11" lean-forward="false" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+          <folding>
+            <element signature="e#2871#2872#0" expanded="false" />
+            <element signature="e#2896#2897#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_79.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_80.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/huawei/Main_81.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="58" column="19" lean-forward="false" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/online/Main_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
