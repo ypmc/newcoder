@@ -2,68 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69c14c6c-5826-43d7-a1ef-2caeced4f611" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_17.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_19.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_20.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_21.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_22.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_23.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_24.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_25.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_26.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_27.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_28.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_29.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_30.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_31.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_32.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_33.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_34.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_35.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_38.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_39.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_40.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_41.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_42.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_44.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_45.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_46.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_47.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_48.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_49.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_4_4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_50.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_53.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_54.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/simulate/Main_1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_10.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_11.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_3.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_4.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_5.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_6.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_7.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_8.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/leetcode/Main_9.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/Main_9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_11.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_11.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_4.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_6.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_10.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_9.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_3.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_43.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_5.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_5_5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_7.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_8.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_7.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_9.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_8.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/leetcode/Main_54.java" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Main_54.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -172,8 +111,8 @@
       <file leaf-file-name="Main_54.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Main_54.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="264">
+              <caret line="95" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -357,14 +296,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -657,12 +588,12 @@
       <workItem from="1523359251855" duration="4970000" />
       <workItem from="1523408126779" duration="17605000" />
       <workItem from="1523445263243" duration="6461000" />
-      <workItem from="1523492865688" duration="189000" />
+      <workItem from="1523492865688" duration="4714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="400730000" />
+    <option name="totallyTimeSpent" value="405255000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -679,29 +610,29 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38714993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18616144" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10543657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3756178" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13179572" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33131617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11497731" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34266886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38056013" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38714993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08164852" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1091,10 +1022,10 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/Main_54.java</url>
           <line>23</line>
           <properties />
-          <option name="timeStamp" value="135" />
+          <option name="timeStamp" value="136" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="136" />
+      <option name="time" value="138" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1509,8 +1440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/Main_54.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="264">
+          <caret line="95" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="95" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
