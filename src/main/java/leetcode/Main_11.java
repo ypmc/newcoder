@@ -1,21 +1,37 @@
 package leetcode;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 /**
  * @author kangkang lou
  */
 public class Main_11 {
+    public int maxArea(int[] height) {
+        int result = 0;
+        for (int i = 0; i < height.length - 1; i++) {
+            for (int j = i + 1; j < height.length; j++) {
+                if (result < (j - i) * Math.min(height[i], height[j])) {
+                    result = (j - i) * Math.min(height[i], height[j]);
+                }
+            }
+        }
+        return result;
+    }
 
-    static boolean isMatch(String s, String p) {
-        String temp = "^" + p + "$";
-        Pattern pattern = Pattern.compile(temp);
-        Matcher m = pattern.matcher(s);
-        return m.find();
+    public int maxArea0(int[] height) {
+        int left = 0;
+        int right = height.length - 1;
+        int max = 0;
+        while (left < right) {
+            max = Math.max(max, Math.min(height[left], height[right]) * (right - left));
+            if (height[left] < height[right]) {
+                left++;
+            } else {
+                right--;
+            }
+        }
+        return max;
     }
 
     public static void main(String[] args) {
-        System.out.println(isMatch("aab", "c*a*b"));
+
     }
 }

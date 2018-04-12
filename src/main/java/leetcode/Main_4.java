@@ -1,41 +1,74 @@
 package leetcode;
 
-import java.util.Arrays;
-
 /**
  * @author kangkang lou
  */
 
 /**
- * 将数组看成一个整数，然后加1
+ * 数组中位数
  */
 public class Main_4 {
-    public static int[] plusOne(int[] digits) {
-        int len = digits.length;
-        int step = 0;
-        int temp;
-        for (int i = len - 1; i >= 0; i--) {
-            if (i == len - 1) {
-                temp = digits[i] + 1 + step;
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        int m = nums1.length;
+        int n = nums2.length;
+        if (m > n) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
+        int i = 0, j = 0, imin = 0, imax = m, half = (m + n + 1) / 2;
+        double maxLeft = 0, minRight = 0;
+        while (imin <= imax) {
+            i = (imin + imax) / 2;
+            j = half - i;
+            if (j > 0 && i < m && nums2[j - 1] > nums1[i]) {
+                imin = i + 1;
+            } else if (i > 0 && j < n && nums1[i - 1] > nums2[j]) {
+                imax = i - 1;
             } else {
-                temp = digits[i] + step;
+                if (i == 0) {
+                    maxLeft = (double) nums2[j - 1];
+                } else if (j == 0) {
+                    maxLeft = (double) nums1[i - 1];
+                } else {
+                    maxLeft = (double) Math.max(nums1[i - 1], nums2[j - 1]);
+                }
+                break;
             }
-            digits[i] = temp % 10;
-            step = temp / 10;
         }
-        if (step > 0) {
-            int[] arr = new int[len + 1];
-            arr[0] = step;
-            for (int i = 0; i < len; i++) {
-                arr[i + 1] = digits[i];
-            }
-            return arr;
+        if ((m + n) % 2 == 1) {
+            return maxLeft;
         }
-        return digits;
+        if (i == m) {
+            minRight = (double) nums2[j];
+        } else if (j == n) {
+            minRight = (double) nums1[i];
+        } else {
+            minRight = (double) Math.min(nums1[i], nums2[j]);
+        }
+        return (maxLeft + minRight) / 2;
     }
 
-    public static void main(String[] args) {
-        int[] arr = {9, 9};
-        System.out.println(Arrays.toString(plusOne(arr)));
+    public double findMedianSortedArrays0(int[] nums1, int[] nums2) {
+        int n = nums1.length;
+        int m = nums2.length;
+        int left = (n + m + 1) / 2;
+        int right = (n + m + 2) / 2;
+        return (getKth(nums1, 0, n - 1, nums2, 0, m - 1, left) + getKth(nums1, 0, n - 1, nums2, 0, m - 1, right)) * 0.5;
+    }
+
+    private int getKth(int[] nums1, int start1, int end1, int[] nums2, int start2, int end2, int k) {
+        int len1 = end1 - start1 + 1;
+        int len2 = end2 - start2 + 1;
+        if (len1 > len2) return getKth(nums2, start2, end2, nums1, start1, end1, k);
+        if (len1 == 0) return nums2[start2 + k - 1];
+        if (k == 1) return Integer.min(nums1[start1], nums2[start2]);
+
+        int i = start1 + Integer.min(len1, k / 2) - 1;
+        int j = start2 + Integer.min(len2, k / 2) - 1;
+        //Eliminate half of the elements from one of the smaller arrays
+        if (nums1[i] > nums2[j]) {
+            return getKth(nums1, start1, end1, nums2, j + 1, end2, k - (j - start2 + 1));
+        } else {
+            return getKth(nums1, i + 1, end1, nums2, start2, end2, k - (i - start1 + 1));
+        }
     }
 }

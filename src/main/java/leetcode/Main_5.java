@@ -3,49 +3,55 @@ package leetcode;
 /**
  * @author kangkang lou
  */
+
+/**
+ * 最长回文字符，manacher算法
+ */
 public class Main_5 {
-    public static String addBinary(String a, String b) {
-        int x = a.length() - 1;
-        int y = b.length() - 1;
-        StringBuilder sb = new StringBuilder();
-        int temp = 0;
-        while (x >= 0 && y >= 0) {
-            int m = a.charAt(x) - '0';
-            int n = b.charAt(y) - '0';
-            sb.append((m + n + temp) % 2);
-            temp = (m + n + temp) / 2;
-            x--;
-            y--;
-        }
-        if (x >= 0) {
-            for (int i = x; i >= 0; i--) {
-                int m = a.charAt(i) - '0';
-                sb.append((m + temp) % 2);
-                temp = (m + temp) / 2;
-            }
-            if (temp > 0) {
-                sb.append(temp);
-            }
-        } else if (y >= 0) {
-            for (int i = y; i >= 0; i--) {
-                int m = b.charAt(i) - '0';
-                sb.append((m + temp) % 2);
-                temp = (m + temp) / 2;
-            }
-            if (temp > 0) {
-                sb.append(temp);
-            }
-        } else {
-            if (temp > 0) {
-                sb.append(temp);
+    private int[] p;
+    private String s;
+    private char[] t;
+
+    public String longestPalindrome(String str) {
+        s = str;
+        preprocess();
+        p = new int[t.length];
+        int mid = 0, right = 0;
+        for (int i = 1; i < t.length - 1; i++) {
+            int mirror = 2 * mid - i;
+            if (right > i)
+                p[i] = Math.min(right - i, p[mirror]);
+            while (t[i + (1 + p[i])] == t[i - (1 + p[i])])
+                p[i]++;
+            if (i + p[i] > right) {
+                mid = i;
+                right = i + p[i];
             }
         }
-        return sb.reverse().toString();
+
+        int length = 0;
+        int center = 0;
+        for (int i = 1; i < p.length - 1; i++) {
+            if (p[i] > length) {
+                length = p[i];
+                center = i;
+            }
+        }
+        return s.substring((center - 1 - length) / 2, (center - 1 + length) / 2);
+    }
+
+    private void preprocess() {
+        t = new char[s.length() * 2 + 3];
+        t[0] = '$';
+        t[s.length() * 2 + 2] = '@';
+        for (int i = 0; i < s.length(); i++) {
+            t[2 * i + 1] = '#';
+            t[2 * i + 2] = s.charAt(i);
+        }
+        t[s.length() * 2 + 1] = '#';
     }
 
     public static void main(String[] args) {
-        String a = "101";
-        String b = "110";
-        System.out.println(addBinary(a, b));
+
     }
 }
