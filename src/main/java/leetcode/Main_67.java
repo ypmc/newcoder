@@ -3,7 +3,7 @@ package leetcode;
 /**
  * @author kangkang lou
  */
-public class Main_5_5 {
+public class Main_67 {
     public static String addBinary(String a, String b) {
         int x = a.length() - 1;
         int y = b.length() - 1;

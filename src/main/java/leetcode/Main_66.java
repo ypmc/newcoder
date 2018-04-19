@@ -9,7 +9,7 @@ import java.util.Arrays;
 /**
  * 将数组看成一个整数，然后加1
  */
-public class Main_4_4 {
+public class Main_66 {
     public static int[] plusOne(int[] digits) {
         int len = digits.length;
         int step = 0;
